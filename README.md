@@ -1,2 +1,2 @@
 # hypixel-flipper
-A free Auction Fliiper for Hypixel Skyblock!
+A free Auction Flipper for Hypixel Skyblock!
